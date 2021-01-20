@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CNN News</string>
+    <string name="judul_berita">    Judul berita</string>
+    <string name="cnn_news">CNN News\t</string>
+    <string name="semua_berita">Semua Berita</string>
+    <string name="sahabat_baca_anda">Sahabat Baca Anda</string>
+    <string name="no_news">Maaf, berita dengan keyword yang anda cari belum ada</string>
+    <string name="inter">Berita dalam dan luar negeri</string>
+    <string name="search">search</string>
+</resources>
